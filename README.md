@@ -1,3 +1,6 @@
+# Autonomous Treasure Hunter
+
+
 The "Autonomous Treasure Hunter" project involves designing a game where an autonomous character collects various treasures while avoiding obstacles on a map. The main goal of the project is to develop an algorithm that allows the character to collect all the treasures in the shortest possible time.
 
 Key components of the game include:
