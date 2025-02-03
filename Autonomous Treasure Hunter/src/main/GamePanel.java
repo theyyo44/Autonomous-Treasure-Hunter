@@ -228,11 +228,5 @@ public class GamePanel extends JPanel implements Runnable{
             }
         }
     }
-    // objects dizisini güncelle (karelerdeki nesneleri ekleyin)
-    public void updateObjects() {
-        // Nesneleri eklemek için gerekli kodu buraya ekleyin
-        // Örneğin:
-        // objects[i][j] = "Ağaç";
-        // objects[i][j] = "Gümüş sandık";
-    }
+    
 }
